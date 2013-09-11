@@ -18,15 +18,15 @@
 	<property name="offset_torso_z" value="0.0"/>
 	<property name="offset_torso_roll" value="0.0"/>
 	<property name="offset_torso_pitch" value="0.0"/>
-	<property name="offset_torso_yaw" value="0.0"/>
+	<property name="offset_torso_yaw" value="-0.025"/>
 
 	<!-- arm mount positions | relative to base_link -->
-	<property name="offset_arm_x" value="-0.03"/>
+	<property name="offset_arm_x" value="-0.006"/>
 	<property name="offset_arm_y" value="0.0"/>
-	<property name="offset_arm_z" value="-0.02"/>
+	<property name="offset_arm_z" value="0.00"/>
 	<property name="offset_arm_roll" value="0.0"/>
 	<property name="offset_arm_pitch" value="0.0"/>
-	<property name="offset_arm_yaw" value="0.0"/>
+	<property name="offset_arm_yaw" value="0.02"/>
 
 	<!-- gripper mount positions | relative to arm_ee_link -->
 	<property name="offset_gripper_x" value="0.0"/>

@@ -29,7 +29,7 @@
 	<!--arm mount positions | relative to base_link-->
 	<property name="def_arm_x" value="0.324"/>
 	<property name="def_arm_y" value="-0.191"/>
-	<property name="def_arm_z" value="0.565"/>
+	<property name="def_arm_z" value="0.585"/>
 	<property name="def_arm_roll" value="0"/>
 	<property name="def_arm_pitch" value="0"/>
 	<property name="def_arm_yaw" value="3.927"/>
@@ -54,7 +54,7 @@
 	<property name="def_cam_l_yaw" value="-2.2074792588"/>
 
 	<!-- right | stereo baseline calibration | relative to left camera -->
-	<property name="def_cam_r_x" value="0.044"/>
+	<property name="def_cam_r_x" value="0.014"/>
 	<property name="def_cam_r_y" value="-0.06"/>
 	<property name="def_cam_r_z" value="0.092"/>
 	<property name="def_cam_r_roll" value="-1.57"/>
